@@ -1,6 +1,6 @@
 你好，以下是一些说明
 
-网站地址：[](https://neu.learnwithgpt.club/shared.html)
+[learnwithgp网站地址](https://neu.learnwithgpt.club/shared.html)
 
 点击进入后不用管上面的文字，直接点击下方的共享账号之一进入使用
 
