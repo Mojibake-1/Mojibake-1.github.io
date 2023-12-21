@@ -18,5 +18,5 @@ tips：判断其中哪一个账号使用频率低的方法：比较左侧today�
 
 [learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)（点此进入）
 
-个人联系方式：qq342707641
+个人联系方式：qq342707641，vx号q33006967（请备注来意）
 
