@@ -18,6 +18,8 @@ tips：判断其中哪一个账号使用频率低的方法：比较左侧today�
 
 [learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)（点此进入）
 
+网站源码来自GitHub上一个开源项目[pandora-next](https://github.com/pandora-next/deploy)，作者为[wozulong](https://github.com/wozulong),不是我
+
 中午12点到晚上23点，网站只允许校园网访问（不要挂梯子）如果使用校园网还显示403，请联系我
 
 个人联系方式：qq342707641，vx号q33006967（请备注来意）
