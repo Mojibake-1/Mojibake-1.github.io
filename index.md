@@ -22,10 +22,6 @@
 
 GPT4目前Plus账号的可用次数是3h/40次，如果某一账号当前已达到可用次数上限，可以换一个账号使用
 
-tips：判断其中哪一个账号使用频率低的方法：比较左侧today对话记录下对话的次数，一般数量少说明这个账号当前被使用频率不高
-
-![](https://pic.imgdb.cn/item/657eb5f2c458853aefdb5f56.png)
-
 [learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)
 
 （网站不是我写的，源码来自GitHub上一个开源项目[pandora-next](https://github.com/pandora-next/deploy)，作者为[wozulong](https://github.com/wozulong)，与本人没有联系）
