@@ -20,7 +20,7 @@
 
 在开启新对话页面内，左上角点击切换gpt3.5/4模型
 
-![](https://pic.imgdb.cn/item/659f6e3b871b83018a1a8536.png)
+![](https://pic.imgdb.cn/item/659fc8fb871b83018a5e520b.png)
 
 GPT4目前Team账号GPT4的可用次数是100次/3小时，Plus为40次/3小时，如果某一账号当前已达到可用次数上限，可以换一个账号使用(GPT3.5基本无限用)
 
