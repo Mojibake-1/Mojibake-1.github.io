@@ -24,7 +24,7 @@
 
 GPT4目前Team账号GPT4的可用次数是100次/3小时，Plus为40次/3小时，如果某一账号当前已达到可用次数上限，可以换一个账号使用(GPT3.5基本无限用)
 
-[learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)
+[learnwithgpt网站地址](https://neu.learnwithgpt.beauty/shared.html)
 
 （网站不是我写的，源码来自GitHub上一个开源项目[pandora-next](https://github.com/pandora-next/deploy)，作者为[wozulong](https://github.com/wozulong)，与本人没有联系）
 
