@@ -28,5 +28,5 @@ GPT4目前Team账号GPT4的可用次数是100次/3小时，Plus为40次/3小时�
 
 （网站不是我写的，源码来自GitHub上一个开源项目[pandora-next](https://github.com/pandora-next/deploy)，作者为[wozulong](https://github.com/wozulong)，与本人没有联系）
 
-网站主要面向本校师生开放，中午12点到晚上23点，网站只允许校园网访问，不要挂梯子。其他时间段完全开放
+网站主要面向本校师生开放，中午12点到晚上23点，网站只允许校园网访问，不要挂梯子，否则会显示403。其他时间段完全开放
 
