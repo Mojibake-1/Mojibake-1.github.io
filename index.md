@@ -20,7 +20,7 @@
 
 ![](https://pic.imgdb.cn/item/657eb47dc458853aefd6037c.jpg)
 
-GPT4目前Team账号的可用次数是100次/3h，如果某一账号当前已达到可用次数上限，可以换一个账号使用
+GPT4目前Team账号GPT4的可用次数是100次/3h，如果某一账号当前已达到可用次数上限，可以换一个账号使用(GPT3.5基本无限用)
 
 [learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)
 
