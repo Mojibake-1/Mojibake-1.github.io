@@ -4,7 +4,7 @@
 
 问：这个网站是做什么的？
 
-答：这是一个免费使用的公益gpt站点，可以无障碍体验价值30刀每月的ChatGPT Team，从界面到功能都与官网完全一致，支持Plugins插件、Dalle绘图、联网搜索、Analysis高级数据分析、使用以及创建GPTs等功能（需切换到GPT4）无需自己创建账号、折腾科学上网。注意，虽然在一般情况下，其他用户无法看到你与gpt的对话记录，但为了保证隐私安全，最好不要上传重要的隐私内容（OpenAI默认不使用ChatGPT Team用户数据进行训练）
+答：这是一个免费使用的公益gpt站点，可以无障碍体验价值30刀每月的ChatGPT Team，从界面到使用体验都与官网一致，甚至更流畅。支持Plugins插件、Dalle绘图、联网搜索、Analysis高级数据分析、使用以及创建GPTs等功能（需切换到GPT4）无需自己创建账号、折腾科学上网。注意，虽然在一般情况下，其他用户无法看到你与gpt的对话记录，但为了保证隐私安全，最好不要上传重要的隐私内容（OpenAI默认不使用ChatGPT Team用户数据进行训练）
 
 ![](https://pic.imgdb.cn/item/659f6fd2871b83018a1f96f7.png)
 
@@ -22,11 +22,11 @@
 
 ![](https://pic.imgdb.cn/item/659f6e3b871b83018a1a8536.png)
 
-GPT4目前Team账号GPT4的可用次数是100次/3h，如果某一账号当前已达到可用次数上限，可以换一个账号使用(GPT3.5基本无限用)
+GPT4目前Team账号GPT4的可用次数是100次/3小时，Plus为40次/3小时，如果某一账号当前已达到可用次数上限，可以换一个账号使用(GPT3.5基本无限用)
 
 [learnwithgpt网站地址](https://neu.learnwithgpt.club/shared.html)
 
 （网站不是我写的，源码来自GitHub上一个开源项目[pandora-next](https://github.com/pandora-next/deploy)，作者为[wozulong](https://github.com/wozulong)，与本人没有联系）
 
-网站主要面向本校师生开放，中午12点到晚上23点，网站只允许校园网访问，不要挂梯子
+网站主要面向本校师生开放，中午12点到晚上23点，网站只允许校园网访问，不要挂梯子。其他时间段完全开放
 
